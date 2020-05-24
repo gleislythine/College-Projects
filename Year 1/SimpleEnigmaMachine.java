@@ -20,7 +20,7 @@ import java.util.Map;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class ChynaSimpleEnigma
+public class SimpleEnigmaMachine
 {
 	// ------- FILE DIRECTORY ------- //
 	public static String fileDirectory = "C:\\Users\\sneidelaire\\Desktop\\Enigma Machine\\";
