@@ -1,0 +1,23 @@
+A FINAL PROJECT MADE BY CHYNA™
+"ENIGMA MACHINE: SPECIAL MACHINE"
+BY Chyna Ezra S. Sarmiento
+FOR DATA STRUCTURES AND ALGORITHMS x PROGRAMMING 2
+1 - Bachelor of Science in Information Technology with Specialization in Artificial Intelligence
+Southville International School and Colleges
+A.Y. 2019-2020 || MAY 2020
+
+Based on the Enigma I Sondermaschine (Special Machine)
+using the Wehrmacht Special Machine Key BGS Cheat Sheet.
+
+About Sondermaschine (special machine)
+In the late 1980s, a strange Enigma machine was dicovered in the house of a former intelligence officer, who used to work for a special unit. Basically, this machine was a standard Enigma-I, of which the wiring of the wheels and the UKW had been changed. For this reason, the machine and the wheels were were marked with the letter 'S', which probably means Sondermaschine (special machine). The wooden case is marked A1807S, whilst the machine is labelled 17401S/jla/43. The UKW is engraved with A19872S.
+
+EKW - Entry Disc
+UKW - Reflector Disc
+
+Chyna Simple Enigma Machine's Restrictions:
+- only encrypts.
+- no spaces/numbers allowed
+- FILE HANDLING:
+    - Reads the Rotor Set (MAPPED)
+    - Writes the encrypted message, if the user wishes to
