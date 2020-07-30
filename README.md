@@ -1,2 +1,2 @@
 # College Projects
-Projects here are some notable projects I made throughout my college years.
+Here are some notable projects I made throughout my college years.
